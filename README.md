@@ -1,0 +1,1 @@
+Simple setting of graphql server
